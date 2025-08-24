@@ -1,0 +1,14 @@
+ Maandag 11-Aug 2025:
+	  09:15 - 10:45: Introductie SLA & XLA
+	  12:00 - 15:00: doktersbezoek
+	  15:00 -	   : werk remote van thuis 
+	  
+Dinsdag 12-aug 2025
+	  10:00 - 11:00: Introductie Terugkomsessie SNOW (op kantoor)  Kan vroeger gedaan zijn
+	  11:00 - 12:00: Introductie Security Management
+	  14:00 - 15:00: Introductie Availability Management
+	  
+Woensdag: geen meeting
+Donderdag 13 aug 2025
+	  09:00 - 10:00: Introductie Security Management QSP
+	  10:15 - 10:45: Introductie PV
